@@ -1,0 +1,5 @@
+{
+  "url": "https://ha.local.diegoa.ca/lovelace/default_view?kiosk",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIxYWI5YzRkY2VhZDA0ZGNkOGE1NDJjNjZlYTRiNTc0MyIsImlhdCI6MTczMzg3NTU1MywiZXhwIjoyMDQ5MjM1NTUzfQ.IqDSORPqNMjHLGvjui3icvc-cfC66JMTgmrswX4j3Rs",
+  "output_dir": "/config/www"
+}

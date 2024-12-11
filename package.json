@@ -1,0 +1,9 @@
+{
+  "name": "ha-dashboard-screenshot",
+  "version": "1.0.0",
+  "description": "Home Assistant add-on to capture dashboard screenshots",
+  "main": "screenshot.js",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}

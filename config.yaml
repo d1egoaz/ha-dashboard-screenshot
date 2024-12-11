@@ -1,0 +1,21 @@
+name: "HA Dashboard Screenshot"
+version: "1.0.0"
+slug: "ha_dashboard_screenshot"
+description: "Captures a screenshot of the Home Assistant dashboard using Puppeteer"
+arch:
+  - aarch64
+  - armhf
+  - armv7
+  - amd64
+startup: "once"
+boot: "manual"
+
+options:
+  url: "http://homeassistant.local:8123/lovelace/default_view?kiosk"
+  token: "YOUR_LONG_LIVED_ACCESS_TOKEN"
+  output_dir: "/config/www"
+
+schema:
+  url: str
+  token: str
+  output_dir: str
