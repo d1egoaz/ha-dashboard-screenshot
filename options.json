@@ -1,5 +1,5 @@
 {
   "url": "https://ha.local.diegoa.ca/lovelace/default_view?kiosk",
-  "token": "another removed key :/",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjMmY1ZDQwMjNhOTk0NTg3OTM4MmE5MzQwNjFlYmE3ZCIsImlhdCI6MTczMzg3ODA1NywiZXhwIjoyMDQ5MjM4MDU3fQ.j7tIB8abgs-AA_cnGxbXe1BLpmy6IKDHlZlGeYmic6U",
   "output_dir": "/config/www"
 }
