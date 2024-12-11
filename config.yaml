@@ -1,5 +1,5 @@
 name: "HA Dashboard Screenshot"
-version: "1.0.2"
+version: "1.0.3"
 slug: "ha_dashboard_screenshot"
 description: "Captures a screenshot of the Home Assistant dashboard using Puppeteer"
 arch:
